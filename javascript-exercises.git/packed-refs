@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+e0a011997902630cf460169e73efbb6e24294e17 refs/heads/I3uckwheat-patch-1
+6e02f72a72b048464f1a40e45b63cbfdd1811290 refs/heads/I3uckwheat-patch-2
+4a220a6d55989536e087bdad3cb2848388fa0ae1 refs/heads/dependabot/npm_and_yarn/generator-exercise/handlebars-4.7.7
+d3c6a5d061a4ef555d3fae0074768c67aec47a2e refs/heads/dependabot/npm_and_yarn/generator-exercise/hosted-git-info-2.8.9
+76ccc33cc514bee9545d44f42e48c3a83e171c4f refs/heads/dependabot/npm_and_yarn/generator-exercise/lodash-4.17.21
+cdfa24b1cfe0b3c8a94768140970d0db76af0e59 refs/heads/dependabot/npm_and_yarn/generator-exercise/merge-1.2.1
+b0b57e6d56517b1b6632bfe3f0f519e1145afdf8 refs/heads/dependabot/npm_and_yarn/generator-exercise/y18n-3.2.2
+8272bde6c949d4748abeecc0ad3f92afe23ebe5a refs/heads/fix/revert-jest
+14f9b662de006a71c7d6d91e40317c1aa00b1af2 refs/heads/jest
+085fd89ec8065a91719deb9ca64a504163c455d3 refs/heads/jest-solutions
+ad1c0c407f2d0dc5cbce157d3f74e05045ee40e1 refs/heads/master
+d71a8686405b63d00c52d5da0821db4515fea116 refs/heads/solutions
+dd98574efc4701b394f5bf63cfa10cee4b4d7989 refs/heads/update-packages
